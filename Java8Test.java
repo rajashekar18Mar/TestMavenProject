@@ -11,6 +11,7 @@ public class Java8Test {
 		//int large=li.stream().min(Integer::compare).get();
 		li.stream().filter(i->i%2==0).forEach(System.out::print);;
 		//System.out.println(count);
+		//commit1
 
 	}
 
