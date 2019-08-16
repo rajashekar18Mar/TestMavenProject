@@ -12,6 +12,7 @@ public class Java8Test {
 		li.stream().filter(i->i%2==0).forEach(System.out::print);;
 		//System.out.println(count);
 		//commit1
+		//commit2
 
 	}
 
